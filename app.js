@@ -48,11 +48,11 @@ document.write(`<center><h2>Table of 4</h2>`)
 
  
 
- document.write(`<br><h1>Question 6:~<h1>`)
+ document.write(`<br><h2>Question 05<h2>`)
  let Celsius=97;
  let f=(Celsius*(9/5))+32;
- document.write(`<h4>${Celsius} °C is ${f} °F</h4>`)
+ document.write(`${Celsius} °C is ${f} °F <br><br>`)
  let forn=30;
  let c=(forn-32)*5/9
- document.write(`<h4>${forn} °F is ${c} °C</h4>`)
+ document.write(`${forn} °F is ${c} °C`)
 
