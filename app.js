@@ -1,25 +1,20 @@
 
 // store input numbers
-//const num1 = parseInt(prompt('Enter the first number '));
-//const num2 = parseInt(prompt('Enter the second number '));
+const num1 = parseInt(prompt('Enter the first number '));
+const num2 = parseInt(prompt('Enter the second number '));
 
 //add two numbers
-//const sum = num1 + num2;
-//const sum = num1 - num2;
-//const sum = num1 * num2;
-//const sum = num1 / num2;
+const sum = num1 + num2;
 
-// display the sum
-//document.write(`The sum of ${num1} and ${num2} is ${sum}`);
+document.write(`The sum of ${num1} and ${num2} is ${sum}`);
 
 
 //document.write(`Question 4:`)
-//const tkt =parseInt(prompt("total price of ticket RS.600/-" ));
-//document.write(`<center>Total cost of <b>${tkt}</b> tickets is : <b>${tkt*600}</b> PKR.</center>`);
+const tkt =parseInt(prompt("total price of ticket RS.600/-" ));
+document.write(`<center>Total cost of <b>${tkt}</b> tickets is : <b>${tkt*600}</b> PKR.</center>`);
 
 let a = 7;
 let b=2;
-let sum = a+b;
 let sub = a-b;
 let Multiplay = a*b;
 let divide = a/b;
