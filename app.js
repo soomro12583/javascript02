@@ -1,6 +1,6 @@
 
 // store input numbers
-const num1 = parseInt(prompt('Enter the first number '));
+/*const num1 = parseInt(prompt('Enter the first number '));
 const num2 = parseInt(prompt('Enter the second number '));
 
 //add two numbers
@@ -43,11 +43,16 @@ document.write(`<center><h2>Table of 4</h2>`)
 
  
 
- document.write(`<br><h2>Question 05<h2>`)
+ /*document.write(`<br><h2>Question 05<h2>`)
  let Celsius=97;
  let f=(Celsius*(9/5))+32;
  document.write(`${Celsius} °C is ${f} °F <br><br>`)
  let forn=30;
  let c=(forn-32)*5/9
- document.write(`${forn} °F is ${c} °C`)
+ document.write(`${forn} °F is ${c} °C`)*/
+
+ var x = prompt("what is your name?");
+if (x === "nadeem");{
+   alert("correct!");}
+   
 
