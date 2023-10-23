@@ -80,7 +80,104 @@ if (x === "nadeem");{
    console.log(`multiply of ${a} and ${b} is : ${multiply}`);
    console.log(`division of ${a} and ${b} is : ${divide}`);
 
-   
+   /*var city = prompt("where do you live?");
+   if (city === "shikarpur") {
+      document.write("thats good!"); 
+   }*/
 
-   
+   /*var name = prompt("what is your name?");
+   if (name === "nadeem") {
+      document.write("Hello Mr" + " " + name);
+   }*/
 
+   /*var cast = prompt("what is your cast?");
+   if (cast === "soomro") {
+      document.write("how are you?" + " " + cast);
+   }*/
+
+   /*var name = prompt("what is your name?");
+if (name === "nadeem"){
+   document.write("Hi!");
+}*/
+
+/*var cast = prompt("what is ypur cast?");
+if (cast === "soomro") {
+   document.write("Nice to meet you" + " " + cast);
+}*/
+
+/*var gender = prompt("Male or female?");
+if (gender === "male") {
+   document.write("how are you Mr?");
+}*/
+
+/*var gender = prompt("Male or female?");
+if (gender === "male") {
+   document.write("Good to see you Mr");
+}*/
+
+/*var kaloo = prompt("are you kaloo?");
+if (kaloo === "kaloo") {
+   document.write("welcome" + " " + kaloo);
+}*/
+
+/*var computer = prompt("what is this?");
+var correctAnswer = "soomro"; {
+   document.write("very good");
+}*/
+
+/*var x = prompt("where do u live");
+if (x === "shikarpur") {
+   alert("good");
+   var correctAnswer = "shikarpur";
+   if (x === correctAnswer) {
+      alert("correct!");
+   }
+   var correctAnswer = "shikarpur";
+   score++
+   userIQ = "genius";
+   alert ("sahi");
+}*/
+/*var yourTicketNumber = prompt("your ticket number please")
+if (yourTicketNumber !== 487208) {
+   alert("Better luck next time.");
+}*/
+
+/*var x = prompt("where do you live?");
+if ( x === "sindh") {
+   alert("correct!");
+}
+if (x !== "sindh") {
+   alert("wrong answwer");
+}*/
+
+/*var name = prompt("what is your name?");
+if (name === "nadeem") {
+   document.write("correct");
+}
+if ( name !== "nadeem") {
+   document.write("wrong");
+}*/
+
+/*var cast = prompt("what is your cast?");
+if (cast === "soomro") {
+   alert("correct");
+}
+if (cast !== "soomro") {
+   alert("incorrect");
+}*/
+
+/*var name = prompt("what is his name?");
+if (name === "Ahmed") {
+   console.log("correct");
+}
+if (name !== "Ahmed") {
+   console.log("incorrect");
+}*/
+
+var age = prompt("my age is");
+if (age === "35") {
+   console.log("correct");
+}
+if (age !== "35") {
+   console.log("bara hoja fr bat krengy");
+}
