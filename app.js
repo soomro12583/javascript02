@@ -182,15 +182,40 @@ if (age !== "35") {
    console.log("bara hoja fr bat krengy");
 }*/
 
-/*var cast = prompt("what is your cast?");
-if (cast === "soomro"){
-   console.log("correct");
+var cast = prompt("What is your Name?");
+if (cast === "suleman"){
+   document.write("Hello Suleman Abbasi");
 }
-if (cast !== "soomro") {
-   console.log("incorrect");
-}*/
+if (cast !== "suleman") {
+   document.write("You are Not Suleman");
+}
+var next = prompt("What is your Name?")
+if (next === "Ghulam") {
+   document.write("Hello Ghulam Chandio");
+}
+if (next !== "Ghulam") {
+   document.write("You are Not");
+}
 
-function myFunction() {
+/*function myFunction() {
    var x, text;
    x = document.getElementById("numb").Value;
-} 
+}*/
+
+/*var x = prompt("who are are you?");
+if (x === "i am nadeem") {
+   document.write("your are right");
+}else{
+   score--;
+   userIQ = "problematic";
+   document.write("wrong answer");
+}*/
+
+/*var time= prompt("insert only hours");
+if (time > 1 && time <11){
+   document.write("Good Morning");
+}
+else if ( time > 11 && time < 15){
+   document.write("Good Afternoon");
+}*/
+
