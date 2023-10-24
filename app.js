@@ -174,10 +174,23 @@ if (name !== "Ahmed") {
    console.log("incorrect");
 }*/
 
-var age = prompt("my age is");
+/*var age = prompt("my age is");
 if (age === "35") {
    console.log("correct");
 }
 if (age !== "35") {
    console.log("bara hoja fr bat krengy");
+}*/
+
+/*var cast = prompt("what is your cast?");
+if (cast === "soomro"){
+   console.log("correct");
 }
+if (cast !== "soomro") {
+   console.log("incorrect");
+}*/
+
+function myFunction() {
+   var x, text;
+   x = document.getElementById("numb").Value;
+} 
