@@ -182,7 +182,7 @@ if (age !== "35") {
    console.log("bara hoja fr bat krengy");
 }*/
 
-var cast = prompt("What is your Name?");
+/*var cast = prompt("What is your Name?");
 if (cast === "suleman"){
    document.write("Hello Suleman Abbasi");
 }
@@ -195,7 +195,7 @@ if (next === "Ghulam") {
 }
 if (next !== "Ghulam") {
    document.write("You are Not");
-}
+}*/
 
 /*function myFunction() {
    var x, text;
@@ -219,3 +219,22 @@ else if ( time > 11 && time < 15){
    document.write("Good Afternoon");
 }*/
 
+/*var name = prompt("what is your name?");
+if (name === "nadeem") {
+   document.write("Welcome");
+
+}else {
+      document.write("you are not welcome");
+   }*/
+
+   /*var city0 = "atlanta";
+   var city1 = "baltimore";
+   var city2 = "chicago";
+   var city3 = "Denver";
+   var city5 = "los Angeles";
+   var city6 = "seattle";
+   alert ("welcome to" + " " + city3);*/
+
+   var cities = ["atlanta","baltimore", "chicago", "denver"];
+   alert("welcome to"+cities[2]);
+   
