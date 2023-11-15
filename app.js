@@ -158,13 +158,13 @@ if ( name !== "nadeem") {
    document.write("wrong");
 }*/
 
-/*var cast = prompt("what is your cast?");
-if (cast === "soomro") {
-   alert("correct");
+var cast = prompt("Please type your name");
+if (cast === "Noor") {
+   alert("Welcome" +" "+ cast);
 }
-if (cast !== "soomro") {
-   alert("incorrect");
-}*/
+if (cast !== "Noor") {
+   alert("You are not welcomed");
+}
 
 /*var name = prompt("what is his name?");
 if (name === "Ahmed") {
@@ -235,6 +235,13 @@ if (name === "nadeem") {
    var city6 = "seattle";
    alert ("welcome to" + " " + city3);*/
 
-   var cities = ["atlanta","baltimore", "chicago", "denver"];
-   alert("welcome to"+cities[2]);
+   /*var cities = ["atlanta","baltimore", "chicago", "denver"];
+   console.log("welcome to"+" "+cities[2]);*/
+    /*var x = 5;
+    var y = 7;
+    if (x === y){
+      console.log("These are Equal");
+    }else{
+      console.log("Not Equal");
+    };*/
    
